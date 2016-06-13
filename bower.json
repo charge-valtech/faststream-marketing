@@ -1,0 +1,11 @@
+{
+  "name": "faststream-marketing",
+  "private": true,
+  "dependencies": {
+    "foundation-sites": "~6.0.5"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
